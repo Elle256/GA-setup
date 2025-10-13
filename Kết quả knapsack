@@ -1,0 +1,462 @@
+Với n=5:
+Generation 0, bestfitness = 17.94
+Generation 1, bestfitness = 17.94
+Generation 2, bestfitness = 17.94
+Generation 3, bestfitness = 17.94
+Generation 4, bestfitness = 17.94
+Generation 5, bestfitness = 17.94
+Generation 6, bestfitness = 17.94
+Generation 7, bestfitness = 17.94
+Generation 8, bestfitness = 17.94
+Generation 9, bestfitness = 17.94
+Generation 10, bestfitness = 17.94
+Generation 11, bestfitness = 17.94
+Generation 12, bestfitness = 17.94
+Generation 13, bestfitness = 17.94
+Generation 14, bestfitness = 17.94
+Generation 15, bestfitness = 17.94
+Generation 16, bestfitness = 17.94
+Generation 17, bestfitness = 17.94
+Generation 18, bestfitness = 17.94
+Generation 19, bestfitness = 17.94
+Generation 20, bestfitness = 17.94
+Generation 21, bestfitness = 17.94
+Generation 22, bestfitness = 17.94
+Generation 23, bestfitness = 17.94
+Generation 24, bestfitness = 17.94
+Generation 25, bestfitness = 17.94
+Generation 26, bestfitness = 17.94
+Generation 27, bestfitness = 17.94
+Generation 28, bestfitness = 17.94
+Generation 29, bestfitness = 17.94
+Generation 30, bestfitness = 17.94
+Generation 31, bestfitness = 17.94
+Generation 32, bestfitness = 17.94
+Generation 33, bestfitness = 17.94
+Generation 34, bestfitness = 17.94
+Generation 35, bestfitness = 17.94
+Generation 36, bestfitness = 17.94
+Generation 37, bestfitness = 17.94
+Generation 38, bestfitness = 17.94
+Generation 39, bestfitness = 17.94
+Generation 40, bestfitness = 17.94
+Generation 41, bestfitness = 17.94
+Generation 42, bestfitness = 17.94
+Generation 43, bestfitness = 17.94
+Generation 44, bestfitness = 17.94
+Generation 45, bestfitness = 17.94
+Generation 46, bestfitness = 17.94
+Generation 47, bestfitness = 17.94
+Generation 48, bestfitness = 17.94
+Generation 49, bestfitness = 17.94
+Generation 50, bestfitness = 17.94
+Generation 51, bestfitness = 17.94
+Generation 52, bestfitness = 17.94
+Generation 53, bestfitness = 17.94
+Generation 54, bestfitness = 17.94
+Generation 55, bestfitness = 17.94
+Generation 56, bestfitness = 17.94
+Generation 57, bestfitness = 17.94
+Generation 58, bestfitness = 17.94
+Generation 59, bestfitness = 17.94
+Generation 60, bestfitness = 17.94
+Generation 61, bestfitness = 17.94
+Generation 62, bestfitness = 17.94
+Generation 63, bestfitness = 17.94
+Generation 64, bestfitness = 17.94
+Generation 65, bestfitness = 17.94
+Generation 66, bestfitness = 17.94
+Generation 67, bestfitness = 17.94
+Generation 68, bestfitness = 17.94
+Generation 69, bestfitness = 17.94
+Generation 70, bestfitness = 17.94
+Generation 71, bestfitness = 17.94
+Generation 72, bestfitness = 17.94
+Generation 73, bestfitness = 17.94
+Generation 74, bestfitness = 17.94
+Generation 75, bestfitness = 17.94
+Generation 76, bestfitness = 17.94
+Generation 77, bestfitness = 34.94
+Generation 78, bestfitness = 34.94
+Generation 79, bestfitness = 34.94
+Generation 80, bestfitness = 34.94
+Generation 81, bestfitness = 34.94
+Generation 82, bestfitness = 34.94
+Generation 83, bestfitness = 34.94
+Generation 84, bestfitness = 34.94
+Generation 85, bestfitness = 34.94
+Generation 86, bestfitness = 34.94
+Generation 87, bestfitness = 34.94
+Generation 88, bestfitness = 34.94
+Generation 89, bestfitness = 34.94
+Generation 90, bestfitness = 34.94
+Generation 91, bestfitness = 34.94
+Generation 92, bestfitness = 34.94
+Generation 93, bestfitness = 34.94
+Generation 94, bestfitness = 34.94
+Generation 95, bestfitness = 34.94
+Generation 96, bestfitness = 34.94
+Generation 97, bestfitness = 34.94
+Generation 98, bestfitness = 34.94
+Generation 99, bestfitness = 34.94
+problem:
+profit: [17.   16.26  6.84 11.1  13.05]
+weight: [ 2.14 19.84  8.51  4.27 16.66]
+capacity = 15.73
+
+solution:
+[1 0 1 1 0]
+total_profit =  34.94
+total_weight = 14.92
+
+⏱️ Thời gian chạy chương trình: 0.0274 giây
+
+Với n=10:
+Generation 0, bestfitness = 48.04
+Generation 1, bestfitness = 48.04
+Generation 2, bestfitness = 48.04
+Generation 3, bestfitness = 48.04
+Generation 4, bestfitness = 48.04
+Generation 5, bestfitness = 48.04
+Generation 6, bestfitness = 48.04
+Generation 7, bestfitness = 48.04
+Generation 8, bestfitness = 48.04
+Generation 9, bestfitness = 48.04
+Generation 10, bestfitness = 48.04
+Generation 11, bestfitness = 48.04
+Generation 12, bestfitness = 48.04
+Generation 13, bestfitness = 48.04
+Generation 14, bestfitness = 48.04
+Generation 15, bestfitness = 48.04
+Generation 16, bestfitness = 48.04
+Generation 17, bestfitness = 48.04
+Generation 18, bestfitness = 48.04
+Generation 19, bestfitness = 48.04
+Generation 20, bestfitness = 48.04
+Generation 21, bestfitness = 48.04
+Generation 22, bestfitness = 48.04
+Generation 23, bestfitness = 48.04
+Generation 24, bestfitness = 48.04
+Generation 25, bestfitness = 48.04
+Generation 26, bestfitness = 48.04
+Generation 27, bestfitness = 48.04
+Generation 28, bestfitness = 48.04
+Generation 29, bestfitness = 48.04
+Generation 30, bestfitness = 48.04
+Generation 31, bestfitness = 48.04
+Generation 32, bestfitness = 48.04
+Generation 33, bestfitness = 48.04
+Generation 34, bestfitness = 48.04
+Generation 35, bestfitness = 48.04
+Generation 36, bestfitness = 48.04
+Generation 37, bestfitness = 48.04
+Generation 38, bestfitness = 48.04
+Generation 39, bestfitness = 48.04
+Generation 40, bestfitness = 48.04
+Generation 41, bestfitness = 48.04
+Generation 42, bestfitness = 48.04
+Generation 43, bestfitness = 48.04
+Generation 44, bestfitness = 48.04
+Generation 45, bestfitness = 48.04
+Generation 46, bestfitness = 48.04
+Generation 47, bestfitness = 48.04
+Generation 48, bestfitness = 48.04
+Generation 49, bestfitness = 48.04
+Generation 50, bestfitness = 48.04
+Generation 51, bestfitness = 48.04
+Generation 52, bestfitness = 48.04
+Generation 53, bestfitness = 48.04
+Generation 54, bestfitness = 48.04
+Generation 55, bestfitness = 48.04
+Generation 56, bestfitness = 48.04
+Generation 57, bestfitness = 48.04
+Generation 58, bestfitness = 48.04
+Generation 59, bestfitness = 48.04
+Generation 60, bestfitness = 48.04
+Generation 61, bestfitness = 48.04
+Generation 62, bestfitness = 48.04
+Generation 63, bestfitness = 48.04
+Generation 64, bestfitness = 48.04
+Generation 65, bestfitness = 48.04
+Generation 66, bestfitness = 48.04
+Generation 67, bestfitness = 48.04
+Generation 68, bestfitness = 48.04
+Generation 69, bestfitness = 48.04
+Generation 70, bestfitness = 48.04
+Generation 71, bestfitness = 48.04
+Generation 72, bestfitness = 48.04
+Generation 73, bestfitness = 48.04
+Generation 74, bestfitness = 48.04
+Generation 75, bestfitness = 48.04
+Generation 76, bestfitness = 48.04
+Generation 77, bestfitness = 48.04
+Generation 78, bestfitness = 48.04
+Generation 79, bestfitness = 48.04
+Generation 80, bestfitness = 48.04
+Generation 81, bestfitness = 48.04
+Generation 82, bestfitness = 48.04
+Generation 83, bestfitness = 48.04
+Generation 84, bestfitness = 48.04
+Generation 85, bestfitness = 48.04
+Generation 86, bestfitness = 48.04
+Generation 87, bestfitness = 48.04
+Generation 88, bestfitness = 48.04
+Generation 89, bestfitness = 48.04
+Generation 90, bestfitness = 48.04
+Generation 91, bestfitness = 48.04
+Generation 92, bestfitness = 48.04
+Generation 93, bestfitness = 48.04
+Generation 94, bestfitness = 48.04
+Generation 95, bestfitness = 48.04
+Generation 96, bestfitness = 48.04
+Generation 97, bestfitness = 48.04
+Generation 98, bestfitness = 48.04
+Generation 99, bestfitness = 48.04
+problem:
+profit: [15.22 12.78 13.66  6.76 10.47 16.52 17.76 15.7  17.5   9.61]
+weight: [10.58 11.95 17.18 10.7  10.14 16.08 17.8  18.14  6.2  17.46]
+capacity = 37.52
+
+solution:
+[0 1 0 0 0 0 1 0 1 0]
+total_profit =  48.04
+total_weight = 35.95
+
+⏱️ Thời gian chạy chương trình: 0.0329 giây
+
+Với n=20:
+
+Generation 0, bestfitness = 0.00
+Generation 1, bestfitness = 0.00
+Generation 2, bestfitness = 0.00
+Generation 3, bestfitness = 0.00
+Generation 4, bestfitness = 0.00
+Generation 5, bestfitness = 0.00
+Generation 6, bestfitness = 0.00
+Generation 7, bestfitness = 0.00
+Generation 8, bestfitness = 0.00
+Generation 9, bestfitness = 0.00
+Generation 10, bestfitness = 0.00
+Generation 11, bestfitness = 0.00
+Generation 12, bestfitness = 0.00
+Generation 13, bestfitness = 0.00
+Generation 14, bestfitness = 0.00
+Generation 15, bestfitness = 0.00
+Generation 16, bestfitness = 0.00
+Generation 17, bestfitness = 84.23
+Generation 18, bestfitness = 84.23
+Generation 19, bestfitness = 84.23
+Generation 20, bestfitness = 84.23
+Generation 21, bestfitness = 84.23
+Generation 22, bestfitness = 84.23
+Generation 23, bestfitness = 84.23
+Generation 24, bestfitness = 84.23
+Generation 25, bestfitness = 84.23
+Generation 26, bestfitness = 84.23
+Generation 27, bestfitness = 84.23
+Generation 28, bestfitness = 84.23
+Generation 29, bestfitness = 84.23
+Generation 30, bestfitness = 84.23
+Generation 31, bestfitness = 84.23
+Generation 32, bestfitness = 84.23
+Generation 33, bestfitness = 84.23
+Generation 34, bestfitness = 84.23
+Generation 35, bestfitness = 84.23
+Generation 36, bestfitness = 84.23
+Generation 37, bestfitness = 84.23
+Generation 38, bestfitness = 84.23
+Generation 39, bestfitness = 84.23
+Generation 40, bestfitness = 84.23
+Generation 41, bestfitness = 84.23
+Generation 42, bestfitness = 84.23
+Generation 43, bestfitness = 84.23
+Generation 44, bestfitness = 84.23
+Generation 45, bestfitness = 84.23
+Generation 46, bestfitness = 84.23
+Generation 47, bestfitness = 84.23
+Generation 48, bestfitness = 84.23
+Generation 49, bestfitness = 84.23
+Generation 50, bestfitness = 84.23
+Generation 51, bestfitness = 84.23
+Generation 52, bestfitness = 84.23
+Generation 53, bestfitness = 84.23
+Generation 54, bestfitness = 84.23
+Generation 55, bestfitness = 84.23
+Generation 56, bestfitness = 84.23
+Generation 57, bestfitness = 84.23
+Generation 58, bestfitness = 84.23
+Generation 59, bestfitness = 84.23
+Generation 60, bestfitness = 84.23
+Generation 61, bestfitness = 84.23
+Generation 62, bestfitness = 84.23
+Generation 63, bestfitness = 84.23
+Generation 64, bestfitness = 84.23
+Generation 65, bestfitness = 84.23
+Generation 66, bestfitness = 84.23
+Generation 67, bestfitness = 84.23
+Generation 68, bestfitness = 84.23
+Generation 69, bestfitness = 84.23
+Generation 70, bestfitness = 84.23
+Generation 71, bestfitness = 84.23
+Generation 72, bestfitness = 84.23
+Generation 73, bestfitness = 84.23
+Generation 74, bestfitness = 84.23
+Generation 75, bestfitness = 84.23
+Generation 76, bestfitness = 84.23
+Generation 77, bestfitness = 84.23
+Generation 78, bestfitness = 84.23
+Generation 79, bestfitness = 84.23
+Generation 80, bestfitness = 84.23
+Generation 81, bestfitness = 84.23
+Generation 82, bestfitness = 84.23
+Generation 83, bestfitness = 84.23
+Generation 84, bestfitness = 84.23
+Generation 85, bestfitness = 84.23
+Generation 86, bestfitness = 84.23
+Generation 87, bestfitness = 84.23
+Generation 88, bestfitness = 84.23
+Generation 89, bestfitness = 84.23
+Generation 90, bestfitness = 84.23
+Generation 91, bestfitness = 84.23
+Generation 92, bestfitness = 84.23
+Generation 93, bestfitness = 84.23
+Generation 94, bestfitness = 84.23
+Generation 95, bestfitness = 84.23
+Generation 96, bestfitness = 84.23
+Generation 97, bestfitness = 84.23
+Generation 98, bestfitness = 84.23
+Generation 99, bestfitness = 84.23
+problem:
+profit: [ 9.6   6.02 16.68  6.87 17.72 16.56 12.95 18.04 10.29 14.02 15.23 18.09
+ 16.6   8.7   9.19 16.96 12.24 15.9  16.84 17.48]
+weight: [ 4.79  4.76 17.13 13.31  7.06  7.45 10.02 13.09 16.85  6.9  19.3   2.89
+ 16.49 19.19 10.33 14.11  6.31  5.65 14.05 10.23]
+capacity = 76.41
+
+solution:
+[0 1 0 1 0 0 0 0 0 0 1 1 1 0 1 0 1 0 0 0]
+total_profit =  84.23
+total_weight = 73.39
+
+⏱️Thời gian chạy chương trình: 0.0343 giây
+
+Với n=40:
+
+Generation 0, bestfitness = 222.14
+Generation 1, bestfitness = 222.14
+Generation 2, bestfitness = 222.14
+Generation 3, bestfitness = 222.14
+Generation 4, bestfitness = 222.14
+Generation 5, bestfitness = 222.14
+Generation 6, bestfitness = 222.14
+Generation 7, bestfitness = 222.14
+Generation 8, bestfitness = 222.14
+Generation 9, bestfitness = 228.02
+Generation 10, bestfitness = 228.02
+Generation 11, bestfitness = 228.02
+Generation 12, bestfitness = 228.02
+Generation 13, bestfitness = 228.02
+Generation 14, bestfitness = 228.02
+Generation 15, bestfitness = 230.04
+Generation 16, bestfitness = 230.04
+Generation 17, bestfitness = 230.04
+Generation 18, bestfitness = 230.04
+Generation 19, bestfitness = 249.49
+Generation 20, bestfitness = 249.49
+Generation 21, bestfitness = 249.49
+Generation 22, bestfitness = 249.49
+Generation 23, bestfitness = 249.49
+Generation 24, bestfitness = 249.49
+Generation 25, bestfitness = 249.49
+Generation 26, bestfitness = 249.49
+Generation 27, bestfitness = 249.49
+Generation 28, bestfitness = 249.49
+Generation 29, bestfitness = 249.49
+Generation 30, bestfitness = 249.49
+Generation 31, bestfitness = 249.49
+Generation 32, bestfitness = 249.49
+Generation 33, bestfitness = 249.49
+Generation 34, bestfitness = 249.49
+Generation 35, bestfitness = 249.49
+Generation 36, bestfitness = 249.49
+Generation 37, bestfitness = 249.49
+Generation 38, bestfitness = 249.49
+Generation 39, bestfitness = 249.49
+Generation 40, bestfitness = 249.49
+Generation 41, bestfitness = 249.49
+Generation 42, bestfitness = 249.49
+Generation 43, bestfitness = 249.49
+Generation 44, bestfitness = 249.49
+Generation 45, bestfitness = 249.49
+Generation 46, bestfitness = 249.49
+Generation 47, bestfitness = 249.49
+Generation 48, bestfitness = 249.49
+Generation 49, bestfitness = 250.27
+Generation 50, bestfitness = 252.51
+Generation 51, bestfitness = 252.51
+Generation 52, bestfitness = 252.51
+Generation 53, bestfitness = 269.00
+Generation 54, bestfitness = 269.00
+Generation 55, bestfitness = 272.17
+Generation 56, bestfitness = 272.17
+Generation 57, bestfitness = 272.17
+Generation 58, bestfitness = 272.17
+Generation 59, bestfitness = 272.17
+Generation 60, bestfitness = 272.17
+Generation 61, bestfitness = 272.17
+Generation 62, bestfitness = 272.17
+Generation 63, bestfitness = 272.17
+Generation 64, bestfitness = 272.17
+Generation 65, bestfitness = 272.17
+Generation 66, bestfitness = 272.17
+Generation 67, bestfitness = 272.17
+Generation 68, bestfitness = 272.17
+Generation 69, bestfitness = 272.17
+Generation 70, bestfitness = 272.17
+Generation 71, bestfitness = 272.17
+Generation 72, bestfitness = 272.17
+Generation 73, bestfitness = 283.56
+Generation 74, bestfitness = 283.56
+Generation 75, bestfitness = 283.56
+Generation 76, bestfitness = 283.56
+Generation 77, bestfitness = 283.56
+Generation 78, bestfitness = 283.56
+Generation 79, bestfitness = 283.56
+Generation 80, bestfitness = 283.56
+Generation 81, bestfitness = 283.56
+Generation 82, bestfitness = 283.56
+Generation 83, bestfitness = 283.56
+Generation 84, bestfitness = 283.56
+Generation 85, bestfitness = 283.56
+Generation 86, bestfitness = 283.56
+Generation 87, bestfitness = 283.56
+Generation 88, bestfitness = 283.56
+Generation 89, bestfitness = 283.56
+Generation 90, bestfitness = 283.56
+Generation 91, bestfitness = 283.56
+Generation 92, bestfitness = 283.56
+Generation 93, bestfitness = 283.56
+Generation 94, bestfitness = 283.56
+Generation 95, bestfitness = 283.56
+Generation 96, bestfitness = 283.56
+Generation 97, bestfitness = 283.56
+Generation 98, bestfitness = 283.56
+Generation 99, bestfitness = 283.56
+problem:
+profit: [15.21  5.14 20.   18.12 19.54 15.94  8.42 17.15 18.51  5.37 15.11 17.23
+  7.16 10.19 16.81 12.36 16.65 16.28 18.22 15.52 10.12  5.   15.72  9.3
+ 16.54 13.01 18.02 17.1   7.63 14.32 17.1  10.28  8.33  8.8  11.68  9.65
+ 19.81 19.45 19.66 13.1 ]
+weight: [ 3.83  7.76 17.23 17.39  9.37 12.41 13.66  6.59 14.09 17.23  5.71 19.63
+  4.17  6.45 11.55  5.15 17.49  6.34  7.37  7.37 12.4  19.76 15.64  7.69
+  5.86 18.89  8.2  14.04 16.17  3.68 17.26  7.37  6.17 14.49  8.02 13.73
+  9.5   7.89 15.65 19.13]
+capacity = 183.43
+
+solution:
+[1 0 1 0 0 1 0 1 0 0 0 1 1 0 1 1 0 0 1 1 0 0 0 1 0 0 1 0 0 1 0 1 1 1 0 0 1
+ 1 1 0]
+total_profit =  283.56
+total_weight = 175.95
+
+⏱️ Thời gian chạy chương trình: 0.0442 giây
