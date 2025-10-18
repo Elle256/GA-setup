@@ -1,0 +1,100 @@
+Run 001: Best solution = [0.52011383 0.49947898], Best fitness = -0.002871
+Run 002: Best solution = [0.52115459 0.4997578 ], Best fitness = -0.017627
+Run 003: Best solution = [0.51996523 0.50091589], Best fitness = -0.008403
+Run 004: Best solution = [0.51965586 0.50012884], Best fitness = -0.001560
+Run 005: Best solution = [0.52115829 0.49981178], Best fitness = -0.017508
+Run 006: Best solution = [0.51956307 0.50055236], Best fitness = -0.005287
+Run 007: Best solution = [0.52006634 0.50053999], Best fitness = -0.002969
+Run 008: Best solution = [0.51932298 0.5011958 ], Best fitness = -0.019595
+Run 009: Best solution = [0.51966307 0.50035692], Best fitness = -0.002611
+Run 010: Best solution = [0.5210289  0.49962023], Best fitness = -0.014883
+Run 011: Best solution = [0.51825542 0.49932014], Best fitness = -0.037698
+Run 012: Best solution = [0.51886266 0.49934858], Best fitness = -0.018802
+Run 013: Best solution = [0.5190943  0.50090303], Best fitness = -0.017510
+Run 014: Best solution = [0.52044623 0.50015917], Best fitness = -0.002702
+Run 015: Best solution = [0.52054899 0.50013216], Best fitness = -0.003903
+Run 016: Best solution = [0.52003213 0.50018456], Best fitness = -0.000353
+Run 017: Best solution = [0.52014374 0.49937858], Best fitness = -0.004112
+Run 018: Best solution = [0.52036844 0.50003176], Best fitness = -0.001673
+Run 019: Best solution = [0.5203972  0.49873735], Best fitness = -0.017878
+Run 020: Best solution = [0.51903811 0.50053314], Best fitness = -0.013360
+Run 021: Best solution = [0.51946711 0.50168213], Best fitness = -0.031603
+Run 022: Best solution = [0.51993277 0.5001561 ], Best fitness = -0.000298
+Run 023: Best solution = [0.52017272 0.50010352], Best fitness = -0.000469
+Run 024: Best solution = [0.52023842 0.50067433], Best fitness = -0.005238
+Run 025: Best solution = [0.51807874 0.4998928 ], Best fitness = -0.039818
+Run 026: Best solution = [0.52020714 0.49963835], Best fitness = -0.001829
+Run 027: Best solution = [0.51829275 0.49900804], Best fitness = -0.041584
+Run 028: Best solution = [0.51980176 0.50005577], Best fitness = -0.000498
+Run 029: Best solution = [0.51877231 0.5002687 ], Best fitness = -0.017598
+Run 030: Best solution = [0.52092709 0.50140238], Best fitness = -0.030519
+Run 031: Best solution = [0.5201599  0.50030508], Best fitness = -0.001240
+Run 032: Best solution = [0.52049591 0.50010584], Best fitness = -0.003145
+Run 033: Best solution = [0.519966   0.50003405], Best fitness = -0.000025
+Run 034: Best solution = [0.5194105  0.50126984], Best fitness = -0.020160
+Run 035: Best solution = [0.5196126  0.50106625], Best fitness = -0.013131
+Run 036: Best solution = [0.52014282 0.49971896], Best fitness = -0.001037
+Run 037: Best solution = [0.51948943 0.50027553], Best fitness = -0.003799
+Run 038: Best solution = [0.52000266 0.50005015], Best fitness = -0.000025
+Run 039: Best solution = [0.52123456 0.50015753], Best fitness = -0.019815
+Run 040: Best solution = [0.51981474 0.49974214], Best fitness = -0.001073
+Run 041: Best solution = [0.51921513 0.49932306], Best fitness = -0.011656
+Run 042: Best solution = [0.52003684 0.50091205], Best fitness = -0.008335
+Run 043: Best solution = [0.52090411 0.50026076], Best fitness = -0.010988
+Run 044: Best solution = [0.51973296 0.50015752], Best fitness = -0.001091
+Run 045: Best solution = [0.51985697 0.50037273], Best fitness = -0.001633
+Run 046: Best solution = [0.51969666 0.49912148], Best fitness = -0.008804
+Run 047: Best solution = [0.52012046 0.49994255], Best fitness = -0.000208
+Run 048: Best solution = [0.51943141 0.49912972], Best fitness = -0.011332
+Run 049: Best solution = [0.52011676 0.50012775], Best fitness = -0.000328
+Run 050: Best solution = [0.52002022 0.49869674], Best fitness = -0.016990
+Run 051: Best solution = [0.52065662 0.49924141], Best fitness = -0.011119
+Run 052: Best solution = [0.52070666 0.50002108], Best fitness = -0.006235
+Run 053: Best solution = [0.51984519 0.49946259], Best fitness = -0.003173
+Run 054: Best solution = [0.51982523 0.49974495], Best fitness = -0.001013
+Run 055: Best solution = [0.51987715 0.50016414], Best fitness = -0.000449
+Run 056: Best solution = [0.51963112 0.49896012], Best fitness = -0.012413
+Run 057: Best solution = [0.51986437 0.50097446], Best fitness = -0.009715
+Run 058: Best solution = [0.51991836 0.49990911], Best fitness = -0.000162
+Run 059: Best solution = [0.52055357 0.50054622], Best fitness = -0.006775
+Run 060: Best solution = [0.51943382 0.49891117], Best fitness = -0.015582
+Run 061: Best solution = [0.52001383 0.49789588], Best fitness = -0.044275
+Run 062: Best solution = [0.52048354 0.49965696], Best fitness = -0.004058
+Run 063: Best solution = [0.51797151 0.49944944], Best fitness = -0.047013
+Run 064: Best solution = [0.51995747 0.4992819 ], Best fitness = -0.005178
+Run 065: Best solution = [0.51939557 0.50078215], Best fitness = -0.010356
+Run 066: Best solution = [0.52031884 0.49963295], Best fitness = -0.002589
+Run 067: Best solution = [0.51959651 0.50032096], Best fitness = -0.002940
+Run 068: Best solution = [0.52077191 0.49973694], Best fitness = -0.008152
+Run 069: Best solution = [0.52052667 0.50030809], Best fitness = -0.004376
+Run 070: Best solution = [0.51934253 0.50126343], Best fitness = -0.020962
+Run 071: Best solution = [0.52011758 0.50005029], Best fitness = -0.000192
+Run 072: Best solution = [0.51978422 0.49984733], Best fitness = -0.000785
+Run 073: Best solution = [0.52105058 0.49989921], Best fitness = -0.014131
+Run 074: Best solution = [0.52031903 0.49969945], Best fitness = -0.002146
+Run 075: Best solution = [0.52038668 0.4986186 ], Best fitness = -0.020916
+Run 076: Best solution = [0.52054092 0.50023336], Best fitness = -0.004162
+Run 077: Best solution = [0.52007452 0.49974744], Best fitness = -0.000705
+Run 078: Best solution = [0.52083452 0.4999299 ], Best fitness = -0.008799
+Run 079: Best solution = [0.5199861  0.50003382], Best fitness = -0.000014
+Run 080: Best solution = [0.52052378 0.50015804], Best fitness = -0.003638
+Run 081: Best solution = [0.5199378  0.50110033], Best fitness = -0.012154
+Run 082: Best solution = [0.51975518 0.49888979], Best fitness = -0.013035
+Run 083: Best solution = [0.52004934 0.5000408 ], Best fitness = -0.000046
+Run 084: Best solution = [0.52026129 0.49978508], Best fitness = -0.001293
+Run 085: Best solution = [0.51986638 0.49953075], Best fitness = -0.002415
+Run 086: Best solution = [0.51943542 0.49917043], Best fitness = -0.010588
+Run 087: Best solution = [0.52010072 0.49990383], Best fitness = -0.000215
+Run 088: Best solution = [0.5194779  0.49996236], Best fitness = -0.003191
+Run 089: Best solution = [0.52009609 0.49991899], Best fitness = -0.000177
+Run 090: Best solution = [0.52051393 0.4995691 ], Best fitness = -0.005117
+Run 091: Best solution = [0.52085284 0.50025482], Best fitness = -0.009796
+Run 092: Best solution = [0.51918297 0.49997614], Best fitness = -0.007657
+Run 093: Best solution = [0.52026574 0.49981904], Best fitness = -0.001187
+Run 094: Best solution = [0.52028428 0.50019135], Best fitness = -0.001351
+Run 095: Best solution = [0.51950369 0.50047879], Best fitness = -0.005167
+Run 096: Best solution = [0.52074177 0.5016465 ], Best fitness = -0.033987
+Run 097: Best solution = [0.51823945 0.50049284], Best fitness = -0.036082
+Run 098: Best solution = [0.52056323 0.50110424], Best fitness = -0.016120
+Run 099: Best solution = [0.51995354 0.50002085], Best fitness = -0.000030
+Run 100: Best solution = [0.52015667 0.50017274], Best fitness = -0.000596
