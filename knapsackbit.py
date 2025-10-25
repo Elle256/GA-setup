@@ -130,11 +130,9 @@ def GA(problem, pop_size, max_gen, p_c, p_m, pm_gene=0.02, tournament_k=3):
     return history, solution
 
 # -------------------- setup--------------------
-np.random.seed(1)
-random.seed(1)
 
-profit = np.random.uniform(5.0, 20.0, 20)   
-weight = np.random.uniform(2.0, 20.0, 20)
+profit = np.random.uniform(5.0, 20.0, 5)   
+weight = np.random.uniform(2.0, 20.0, 5)
 capacity = np.random.uniform(0.0, np.sum(weight) * 0.5) 
 problem = Problem(profit, weight, capacity)
 
