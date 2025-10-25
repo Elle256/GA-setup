@@ -133,7 +133,7 @@ def GA(problem, pop_size, max_gen, p_c, p_m, pm_gene=0.02, tournament_k=3):
 
 profit = np.random.uniform(5.0, 20.0, 5)   
 weight = np.random.uniform(2.0, 20.0, 5)
-capacity = np.random.uniform(0.0, np.sum(weight) * 0.5) 
+capacity = np.random.uniform(0.0, np.sum(weight)) 
 problem = Problem(profit, weight, capacity)
 
 pop_size = 10
@@ -174,3 +174,4 @@ plt.title("Fitness Progress Over Generations")
 plt.legend()
 plt.grid(True)
 plt.show()
+
